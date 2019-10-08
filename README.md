@@ -1,10 +1,10 @@
-# AngularExpressSkeleton
+# NEAT Skeleton - a skeleton project using Node, Express, Angular, and Typescript
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0, and modified to include an integrated backend using influences from [Angular-Full-Stack](https://github.com/DavideViolante/Angular-Full-Stack).
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `npm run dev` for a dev server. The client will run at `http://localhost:4200/`, while the server will run at `http://localhost:3000`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
